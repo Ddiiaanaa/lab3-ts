@@ -1,0 +1,16 @@
+[
+  {
+    "id": 101,
+    "name": "Apple MacBook Neo 13",
+    "shortname": "macbook-neo-13",
+    "description": "MacBook Neo просто літає",
+    "price": "45 000 UAH"
+  },
+  {
+    "id": 102,
+    "name": "Samsung Galaxy Book4",
+    "shortname": "galaxy-book4",
+    "description": "Абсолютно тонкий та надійний",
+    "price": "38 200 UAH"
+  }
+]

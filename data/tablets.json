@@ -1,0 +1,16 @@
+[
+  {
+    "id": 105,
+    "name": "iPad 11",
+    "shortname": "ipad-11",
+    "description": "Зустрічайте оновлений iPad.",
+    "price": "20 500 UAH"
+  },
+  {
+    "id": 106,
+    "name": "Samsung Tab S10 FE",
+    "shortname": "galaxy-tab-s10-fe",
+    "description": "Обводиш – і знаходиш на великому екрані",
+    "price": "22 000 UAH"
+  }
+]

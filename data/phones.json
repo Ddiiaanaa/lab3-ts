@@ -1,0 +1,16 @@
+[
+  {
+    "id": 103,
+    "name": "iPhone 15 Pro",
+    "shortname": "iphone-15-pro",
+    "description": "Титан. Неймовірна камера. Lorem ipsum.",
+    "price": "45 000 UAH"
+  },
+  {
+    "id": 104,
+    "name": "Samsung Galaxy S24",
+    "shortname": "galaxy-s24",
+    "description": "Galaxy AI вже тут.",
+    "price": "38 000 UAH"
+  }
+]
